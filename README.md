@@ -1,2 +1,2 @@
 # Oregon-Trail-Game
-The famous Oregon Trail game in python
+The famous text based Oregon Trail game coded in python
